@@ -1,0 +1,23 @@
+{
+  "name": "browser-polyfills",
+  "version": "1.0.0",
+  "description": "Basic set of Polyfills based on MDN",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshua-harpoon/browser-polyfills.git"
+  },
+  "keywords": [
+    "Polyfill",
+    "MDN",
+    "Browser Polyfill"
+  ],
+  "author": "Joshua Duenas <joshua@harpoonconnect.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/joshua-harpoon/browser-polyfills/issues"
+  },
+  "homepage": "https://github.com/joshua-harpoon/browser-polyfills#readme"
+}
