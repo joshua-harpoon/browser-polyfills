@@ -1,5 +1,5 @@
 {
-  "name": "browser-polyfills",
+  "name": "browser-mdn-polyfills",
   "version": "1.0.0",
   "description": "Basic set of Polyfills based on MDN",
   "scripts": {
